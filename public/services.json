@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Repair",
+        "price": 100,
+        "description": "car service",
+        "img": "https://i.ibb.co/RcSLY2w/repair6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Oil change",
+        "price": 200,
+        "description": "car service",
+        "img": "https://i.ibb.co/5nSpyTV/repair2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engine",
+        "price": 2000,
+        "description": "car service",
+        "img": "https://i.ibb.co/BsgLJBt/repair3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Paint",
+        "price": 2000,
+        "description": "car service",
+        "img": "https://i.ibb.co/DVmzLHt/repair4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Wheel",
+        "price": 1000,
+        "description": "car service",
+        "img": "https://i.ibb.co/Bj7GBBR/repair5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Engine Repair",
+        "price": 1000,
+        "description": "car service",
+        "img": "https://i.ibb.co/RcSLY2w/repair6.jpg"
+    }
+]
